@@ -4,6 +4,10 @@ A real-time chat application built using **Spring Boot (WebSocket + STOMP)** and
 This project demonstrates how to create a live messaging system where users can send and receive messages instantly without refreshing the page.
 
 ---
+<img width="1512" height="982" alt="Screenshot 2026-04-23 at 1 32 29 PM" src="https://github.com/user-attachments/assets/b04d07e1-2fab-4ca6-94ee-8e8bfc51a85a" />
+<img width="1510" height="900" alt="Screenshot 2026-04-23 at 2 20 56 PM" src="https://github.com/user-attachments/assets/ed098b76-0323-46e7-977d-d8c62e7cb184" />
+<img width="1503" height="901" alt="Screenshot 2026-04-23 at 2 21 12 PM" src="https://github.com/user-attachments/assets/2af56bf8-1a0c-4903-9093-df94d1143c24" />
+
 
 ## 🚀 Features
 
@@ -182,8 +186,7 @@ http://localhost:5173
 
 Feel free to fork the project and improve it!
 
-<img width="1503" height="901" alt="Screenshot 2026-04-23 at 2 21 12 PM" src="https://github.com/user-attachments/assets/2af56bf8-1a0c-4903-9093-df94d1143c24" />
-<img width="1510" height="900" alt="Screenshot 2026-04-23 at 2 20 56 PM" src="https://github.com/user-attachments/assets/ed098b76-0323-46e7-977d-d8c62e7cb184" />
-<img width="1512" height="982" alt="Screenshot 2026-04-23 at 1 32 29 PM" src="https://github.com/user-attachments/assets/b04d07e1-2fab-4ca6-94ee-8e8bfc51a85a" />
+
+
 
 
